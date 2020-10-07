@@ -1,7 +1,6 @@
 ## Issue Details
 <!--- Insert a link to the JIRA ticket -->
-<!--- e.g. "[DCE-1957](https://specsavers.atlassian.net/browse/DCE-1957)" -->
-[Ticket ID](#)
+[Ticket ID](#) <!--- e.g. "[DCE-1957](https://specsavers.atlassian.net/browse/DCE-1957)" -->
 
 ## Background Context
 ### What has been changed?
@@ -11,6 +10,7 @@
 
 ## Key Changes
 <!--- Include a brief explanation and (ideally) the commit hash of each key change -->
+ - <!--- e.g. "Made some cool change in 32c1cedaf6b93262c77ebdfb7a45ab0933ba3e5a" -->
 
 ## Visual Outputs/Changes (if relevant)
 <!--- Insert any screenshots/images that support or explain your changes -->
@@ -28,7 +28,7 @@
 ## Automated Testing
 <!-- Include links to associated Automated Test PRs -->
 - [ ] This PR has automated tests here:
-	<!--- e.g. " - https://github.com/specsavers-dgws/test-automation-selenium/pull/123" -->
+	- <!--- e.g. "https://github.com/specsavers-dgws/test-automation-selenium/pull/123" -->
 - [ ] This PR does not require automated tests because...
 	<!-- If there are no tests, at least explain why. -->
 
@@ -36,8 +36,7 @@
 <!--- List linked PRs here -->
 - [ ] This PR has the following linked PRs
 	<!--- Add/remove links as appropriate -->
-	<!--- e.g. - https://github.com/specsavers-dgws/specsavers_frontend/pull/123) -->
-	- https://github.com/specsavers-dgws/specsavers_frontend/pull/123
+	- <!--- e.g. https://github.com/specsavers-dgws/specsavers_frontend/pull/123) -->
 - [ ] This PR does not have any linked PRs
 
 ## Reviewer Checklist
