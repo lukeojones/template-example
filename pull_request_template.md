@@ -1,17 +1,18 @@
-## Description
+## Issue Details
+<!--- Insert a link to the JIRA ticket -->
+<!--- e.g. "[DCE-1957](https://specsavers.atlassian.net/browse/DCE-1957)" -->
+[Ticket ID](#)
 
-#### Issue Details
-- [Ticket ID](...)
-
-#### Background Context
- <!--- Explain your changes in reasonable detail -->
+## Background Context
+### What has been changed?
  <!--- What has been changed? -->
+### Why has it been changed?
  <!--- Why has it been changed? -->
 
-#### Key Changes
+## Key Changes
 <!--- Include a brief explanation and (ideally) the commit hash of each key change -->
 
-#### Visual Outputs/Changes (if relevant)
+## Visual Outputs/Changes (if relevant)
 <!--- Insert any screenshots/images that support or explain your changes -->
 
 ## Developer Checklist
@@ -27,7 +28,7 @@
 ## Automated Testing
 <!-- Include links to associated Automated Test PRs -->
 - [ ] This PR has automated tests here:
-	<!--- e.g. https://github.com/specsavers-dgws/test-automation-selenium/pull/123 -->
+	<!--- e.g. " - https://github.com/specsavers-dgws/test-automation-selenium/pull/123" -->
 - [ ] This PR does not require automated tests because...
 	<!-- If there are no tests, at least explain why. -->
 
@@ -50,7 +51,7 @@
 <!--- Repo specific 'Gotchas' that frequently catch people out  -->
 - Version script modifications (see Standards and Resources)
 - Have you introduced any additional warnings or notices? What about errors?
-- Have you committed any relevant compile targets? e.g. Transpiled JS, CSS (compiled from Less) etc
+- Have you committed any relevant compilation targets? e.g. Transpiled JS, CSS (compiled from Less) etc
   <!--- Examples can be added (or removed if resolved) over time  -->
 
 ## Standards and Resources
