@@ -43,7 +43,6 @@
 - [ ] This PR does not have any linked PRs
 
 ## Reviewer Checklist
-<!--- Tick all of the boxes (type an x in there) for all points that apply -->
 - [ ] I have confirmed the PR target is correct
 - [ ] I have read and understood the PR
 - [ ] I have raised any questions I may have about the PR and they have been resolved
