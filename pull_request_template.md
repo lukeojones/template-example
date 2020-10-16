@@ -42,7 +42,13 @@
 	- <!--- e.g. https://github.com/specsavers-dgws/specsavers_frontend/pull/123 -->
 - [ ] This PR does not have any linked PRs
 
-## Reviewer Checklist
+## Reviewer 1 Checklist
+- [ ] I have confirmed the PR target is correct
+- [ ] I have read and understood the PR
+- [ ] I have raised any questions I may have about the PR and they have been resolved
+- [ ] I have checked the composer.lock file for expected version updates
+
+## Reviewer 2 Checklist
 - [ ] I have confirmed the PR target is correct
 - [ ] I have read and understood the PR
 - [ ] I have raised any questions I may have about the PR and they have been resolved
