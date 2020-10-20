@@ -19,7 +19,7 @@
 
 ## Developer Checklist
 <!--- Tick all of the boxes (type an x in there) for all points that apply -->
-- [ ] I have followed the Branch, PR and Commit message standards (see 'Standards and Resources').
+- [ ] I have followed the Branch, PR, and Commit message standards (see 'Standards and Resources').
 - [ ] I have reviewed the changes in this PR myself.
 - [ ] I have tested the changes myself and verified the behaviour.
 - [ ] I have updated the in-code documentation accordingly.
