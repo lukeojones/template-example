@@ -1,0 +1,3 @@
+# Implementation of the Cryptographic Dongle
+@Dongle
+config.xss=1
